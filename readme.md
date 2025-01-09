@@ -1,5 +1,5 @@
 
-# VILBias: Detecting Bias in Multimodal Contexts
+# ViLBias: A Comprehensive Framework for Bias Detection through Linguistic and Visual Cues , presenting Annotation Strategies, Evaluation, and Key Challenges
 
 VILBias is a framework designed to detect and analyze bias in multimodal contexts, integrating linguistic and visual cues to improve transparency, accountability, and fairness in media representation.
 
