@@ -1,6 +1,4 @@
-Here's a structured **README.md** for your project, incorporating information about SLMs, LLMs, and data availability:
 
-```markdown
 # VILBias: Detecting Bias in Multimodal Contexts
 
 VILBias is a framework designed to detect and analyze bias in multimodal contexts, integrating linguistic and visual cues to improve transparency, accountability, and fairness in media representation.
