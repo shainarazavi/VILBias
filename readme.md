@@ -3,6 +3,8 @@
 
 VILBias is a framework designed to detect and analyze bias in multimodal contexts, integrating linguistic and visual cues to improve transparency, accountability, and fairness in media representation.
 
+https://arxiv.org/abs/2412.17052
+
 ## Overview
 
 This repository contains code for:
