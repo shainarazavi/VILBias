@@ -36,7 +36,8 @@ We welcome contributions to improve VILBias. Please follow these steps to contri
 
 ## License
 
-This project is licensed under the MIT License. See the `LICENSE` file for details.
+Licensed under **Creative Commons Attribution–NoDerivatives 4.0 International (CC BY-ND 4.0)**.  
+See [DATA_LICENSE](DATA_LICENSE) or the [human-readable summary](https://creativecommons.org/licenses/by-nd/4.0/deed.en).
 
 ## 📚 Citation
 
