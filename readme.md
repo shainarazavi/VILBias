@@ -6,6 +6,7 @@ VILBias is a framework designed to detect and analyze bias in multimodal context
 [![arXiv](https://img.shields.io/badge/arXiv-2412.17052-b31b1b.svg)](https://arxiv.org/abs/2412.17052)
 [![Cite (BibTeX)](https://img.shields.io/badge/Cite-BibTeX-1f425f.svg)](#-citation)
 [![License: MIT](https://img.shields.io/badge/License-MIT-green.svg)](LICENSE) 
+[![Data: CC BY–ND 4.0](https://img.shields.io/badge/Data%20License-CC%20BY–ND%204.0-lightgrey.svg)](DATA_LICENSE)
 
 <!-- Teaser -->
 <p align="center">
