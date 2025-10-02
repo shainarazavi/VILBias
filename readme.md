@@ -39,7 +39,6 @@ If you use VILBias or wish  to use any of this work, please cite:
 
 ## Contact
 
-For access on data, please contact:
+For general inquiries or image data, please contact:
 - **Shaina Raza**  
   Email: [shaina.raza@vectorinstitute.ai](mailto:shaina.raza@vectorinstitute.ai)
-```
