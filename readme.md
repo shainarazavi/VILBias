@@ -56,6 +56,6 @@ If you use VILBias or wish  to use any of this work, please cite:
 
 ## Contact
 
-For general inquiries or image data, please contact:
+For requests for image data or any general inquiries, please contact:
 - **Shaina Raza**  
   Email: [shaina.raza@vectorinstitute.ai](mailto:shaina.raza@vectorinstitute.ai)
